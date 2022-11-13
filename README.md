@@ -1,5 +1,4 @@
 # 1-Calc
-1 only calculator
 ## About
 Only 1 calculator
 ![](1-Calc-Image.png)
